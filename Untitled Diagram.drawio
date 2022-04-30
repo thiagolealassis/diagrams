@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T14:34:31.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="s_oFI_yk7hBUfMRUYLES" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T15:49:12.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="GK7AfmjdxGdhkESXXvIn" version="17.4.6" type="github">
   <diagram id="JDjinimMTuDTXD1Ipttu" name="Page-1">
-    <mxGraphModel dx="946" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         <mxCell id="ih82GKpCg6YPjLAsOWNQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="ih82GKpCg6YPjLAsOWNQ-19" source="ih82GKpCg6YPjLAsOWNQ-23" target="ih82GKpCg6YPjLAsOWNQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ih82GKpCg6YPjLAsOWNQ-23" value="Konekt ERP Adapter&lt;br&gt;(Facade)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="ih82GKpCg6YPjLAsOWNQ-19">
+        <mxCell id="ih82GKpCg6YPjLAsOWNQ-23" value="Konekt ERP Adapter&lt;br&gt;(Facade Services)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="ih82GKpCg6YPjLAsOWNQ-19">
           <mxGeometry x="220" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ih82GKpCg6YPjLAsOWNQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ih82GKpCg6YPjLAsOWNQ-19" source="ih82GKpCg6YPjLAsOWNQ-21" target="ih82GKpCg6YPjLAsOWNQ-23">
@@ -98,7 +98,7 @@
         <mxCell id="ih82GKpCg6YPjLAsOWNQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih82GKpCg6YPjLAsOWNQ-29" target="ih82GKpCg6YPjLAsOWNQ-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ih82GKpCg6YPjLAsOWNQ-29" value="Konekt ERP Adapter&lt;br&gt;(Facade)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ih82GKpCg6YPjLAsOWNQ-29" value="Konekt ERP Adapter&lt;br&gt;(Facade Services)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="535" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ih82GKpCg6YPjLAsOWNQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih82GKpCg6YPjLAsOWNQ-33" target="ih82GKpCg6YPjLAsOWNQ-18">
@@ -149,7 +149,7 @@
         <mxCell id="ih82GKpCg6YPjLAsOWNQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ih82GKpCg6YPjLAsOWNQ-46" target="ih82GKpCg6YPjLAsOWNQ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ih82GKpCg6YPjLAsOWNQ-46" value="Vendedor em campo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ih82GKpCg6YPjLAsOWNQ-46" value="Cliente / Vendedor / etc..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ih82GKpCg6YPjLAsOWNQ-47" value="" style="group" vertex="1" connectable="0" parent="1">
